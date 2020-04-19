@@ -1,11 +1,4 @@
-# Ceren's Data Science Portfolio
-Repository of my data science projects including
+As a capstone project for Data Science with Python course on Codecademy, I analyzed Twitter data. I predicted location of a tweet and whether it will go viral or not.
 
-- Code behind my articles on [Medium](https://medium.com/@cereniyim)
-- Machine learning projects
-  - Supervised
-  - Unsupervised
-- Exploratory data analysis projects
-- Codecademy capstone projects
-
-
+1. Using Naive Bayes Classifier, predicted the location of the tweet (New York, Paris or London)
+2. Using K Nearest Neighbors, guessed wheter a tweet will go viral or not
